@@ -1,6 +1,6 @@
 [class^="col"] {
-    max-height: 200px;
-    border: 1px solid black;
+    /* max-height: 200px; */
+    /* border: 1px solid black; */
 }
 
 .img-fluid {
@@ -8,5 +8,5 @@
 }
 
 body {
-    background-color: rgb(255, 135, 37);
+    background-color: lightgray;
 }                 
